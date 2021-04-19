@@ -1,0 +1,39 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.weekly_heading{
+  text-align: left;
+  color: black;
+  font-size: 14px;
+}
+.root, .media{
+  border-style: none !important;
+}
+.footer_styling{
+  background-color: rgb(10, 10, 29);
+  height: 100%;
+
+}
+.nav, .nav-link{
+  color: white !important;
+}
+.active{
+  font-weight: bolder;
+  font-size: 19px !important;
+}
+.policy{
+  align-items: center;
+  justify-content: center;
+  padding-left: 500px;
+}
+.contact{
+  position: absolute;
+  right: 2%;
+  align-items: center;
+  justify-content: center;
+}
+.about{
+  padding-left: 10px;
+}
